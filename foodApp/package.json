@@ -1,5 +1,5 @@
 {
-  "name": "food_app_frontend",
+  "name": "foodapp",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {
